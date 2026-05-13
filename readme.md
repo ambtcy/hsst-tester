@@ -8,3 +8,5 @@ Author: A Chalkley
 
 run with:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ambtcy/hsst-tester.git/HEAD)
+
+Please note that these examples are targeted at a GCSE work experience student!
